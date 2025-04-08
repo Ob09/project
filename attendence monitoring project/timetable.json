@@ -1,0 +1,287 @@
+{
+    "Monday": {
+        "subjects": [
+            {
+                "subject": "AAD",
+                "time": "08:55-09:50",
+                "teacher": "JS"
+            },
+            {
+                "subject": "IEFT",
+                "time": "09:51-10:45",
+                "teacher": "BGE"
+            },
+            {
+                "subject": "RIS",
+                "time": "11:01-11:50",
+                "teacher": "CMO"
+            },
+            {
+                "subject": "MENTORING",
+                "time": "11:51-12:45",
+                "teacher": "MNG"
+            },
+            {
+                "subject": "BDA",
+                "time": "13:41-14:30",
+                "teacher": "MNG"
+            },
+            {
+                "subject": "RIS",
+                "time": "14:31-15:20",
+                "teacher": "CMO"
+            },
+            {
+                "subject": "MLSM",
+                "time": "15:26-16:15",
+                "teacher": "AMN"
+            }
+        ],
+        "intervals": [
+            {
+                "name": "Zeroth Interval",
+                "time": "08:20-08:55"
+            },
+            {
+                "name": "First Interval",
+                "time": "10:46-11:00"
+            },
+            {
+                "name": "Second Interval",
+                "time": "12:46-13:40"
+            },
+            {
+                "name": "Third Interval",
+                "time": "15:21-15:25"
+            }
+        ]
+    },
+    "Tuesday": {
+        "subjects": [
+            {
+                "subject": "AAD",
+                "time": "08:55-09:50",
+                "teacher": "JS"
+            },
+            {
+                "subject": "IEFT",
+                "time": "09:51-10:45",
+                "teacher": "BGE"
+            },
+            {
+                "subject": "RIS",
+                "time": "11:01-11:50",
+                "teacher": "CMO"
+            },
+            {
+                "subject": "AAD",
+                "time": "11:51-12:45",
+                "teacher": "JS"
+            },
+            {
+                "subject": "BDA",
+                "time": "13:41-14:30",
+                "teacher": "MNG"
+            },
+            {
+                "subject": "RIS",
+                "time": "14:31-15:20",
+                "teacher": "CMO"
+            },
+            {
+                "subject": "MLSM",
+                "time": "15:26-16:15",
+                "teacher": "AMN"
+            }
+        ],
+        "intervals": [
+            {
+                "name": "Zeroth Interval",
+                "time": "08:20-08:55"
+            },
+            {
+                "name": "First Interval",
+                "time": "10:46-11:00"
+            },
+            {
+                "name": "Second Interval",
+                "time": "12:46-13:40"
+            },
+            {
+                "name": "Third Interval",
+                "time": "15:21-15:25"
+            }
+        ]
+    },
+    "Wednesday": {
+        "subjects": [
+            {
+                "subject": "AAD",
+                "time": "08:55-09:50",
+                "teacher": "JS"
+            },
+            {
+                "subject": "IEFT",
+                "time": "09:51-10:45",
+                "teacher": "BGE"
+            },
+            {
+                "subject": "RIS",
+                "time": "11:01-11:50",
+                "teacher": "CMO"
+            },
+            {
+                "subject": "MENTORING",
+                "time": "11:51-12:45",
+                "teacher": "MNG"
+            },
+            {
+                "subject": "BDA",
+                "time": "13:41-14:30",
+                "teacher": "MNG"
+            },
+            {
+                "subject": "RIS",
+                "time": "14:31-15:20",
+                "teacher": "CMO"
+            },
+            {
+                "subject": "MLSM",
+                "time": "15:26-16:15",
+                "teacher": "AMN"
+            }
+        ],
+        "intervals": [
+            {
+                "name": "Zeroth Interval",
+                "time": "08:20-08:55"
+            },
+            {
+                "name": "First Interval",
+                "time": "10:46-11:00"
+            },
+            {
+                "name": "Second Interval",
+                "time": "12:46-13:40"
+            },
+            {
+                "name": "Third Interval",
+                "time": "15:21-15:25"
+            }
+        ]
+    },
+    "Thursday": {
+        "subjects": [
+            {
+                "subject": "AAD",
+                "time": "08:55-09:50",
+                "teacher": "JS"
+            },
+            {
+                "subject": "IEFT",
+                "time": "09:51-10:45",
+                "teacher": "BGE"
+            },
+            {
+                "subject": "RIS",
+                "time": "11:01-11:50",
+                "teacher": "CMO"
+            },
+            {
+                "subject": "AAD",
+                "time": "11:51-12:45",
+                "teacher": "JS"
+            },
+            {
+                "subject": "BDA",
+                "time": "13:41-14:30",
+                "teacher": "MNG"
+            },
+            {
+                "subject": "RIS",
+                "time": "14:31-15:20",
+                "teacher": "CMO"
+            },
+            {
+                "subject": "MLSM",
+                "time": "15:26-16:15",
+                "teacher": "AMN"
+            }
+        ],
+        "intervals": [
+            {
+                "name": "Zeroth Interval",
+                "time": "08:20-08:55"
+            },
+            {
+                "name": "First Interval",
+                "time": "10:46-11:00"
+            },
+            {
+                "name": "Second Interval",
+                "time": "12:46-13:40"
+            },
+            {
+                "name": "Third Interval",
+                "time": "15:21-15:25"
+            }
+        ]
+    },
+    "Friday": {
+        "subjects": [
+            {
+                "subject": "RIS",
+                "time": "08:55-09:50",
+                "teacher": "CMO"
+            },
+            {
+                "subject": "BDA",
+                "time": "09:51-10:45",
+                "teacher": "MNG"
+            },
+            {
+                "subject": "AAD",
+                "time": "11:01-11:50",
+                "teacher": "JS"
+            },
+            {
+                "subject": "MENTORING",
+                "time": "11:51-12:45",
+                "teacher": "MNG"
+            },
+            {
+                "subject": "BDA",
+                "time": "13:41-14:30",
+                "teacher": "MNG"
+            },
+            {
+                "subject": "RIS",
+                "time": "14:31-15:20",
+                "teacher": "CMO"
+            },
+            {
+                "subject": "MLSM",
+                "time": "15:26-16:15",
+                "teacher": "AMN"
+            }
+        ],
+        "intervals": [
+            {
+                "name": "Zeroth Interval",
+                "time": "08:20-08:55"
+            },
+            {
+                "name": "First Interval",
+                "time": "10:46-11:00"
+            },
+            {
+                "name": "Second Interval",
+                "time": "12:46-13:40"
+            },
+            {
+                "name": "Third Interval",
+                "time": "15:21-15:25"
+            }
+        ]
+    }
+}
